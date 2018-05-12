@@ -1,0 +1,31 @@
+_repo: The-Wagnerian-Romances_27265
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brownell, Gertrude Hall
+    alias: Hall, Gertrude
+    birthdate: 1863
+    deathdate: 1961
+    gutenberg_agent_id: '2737'
+    url: http://www.gutenberg.org/2009/agents/2737
+description: ''
+gutenberg_issued: '2008-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27265'
+  lccn: 08000312
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operas -- Stories, plots, etc.'
+- !lcsh 'Wagner, Richard, 1813-1883'
+- !lcc 'ML'
+tableOfContents: Parsifal -- The ring of the Nibelung -- The master-singers of Nuremberg
+  -- Tristan and Isolde -- Lohengrin -- Tannhaeuser -- The flying Dutchman.
+title: The Wagnerian Romances
+url: http://www.gutenberg.org/ebooks/27265
